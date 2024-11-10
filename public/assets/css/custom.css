@@ -1,0 +1,69 @@
+.error {
+    color: red;
+}
+
+.image_preview {
+    width: 150px !important;
+    height: 150px !important;
+    margin-top: 17px;
+    margin-left: 16px;
+}
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+}
+
+a.prfile_nav-link.active.border {
+    background: var(--primary);
+    color: white;
+}
+
+div.tagsinput span.tag {
+    margin-bottom: 3px;
+}
+
+.tagsinput {
+    width: 100% !important;
+    min-height: 34px !important;
+    height: auto !important;
+    padding: 2px;
+}
+
+span.select2.select2-container.select2-container--default {
+    width: 100% !important;
+}
+
+/* span.select2.select2-container.select2-container--default.select2-container--focus {
+    color: #495057 !important;
+    background-color: #fff !important;
+    border-color: #80bdff !important;
+    outline: 0 !important;
+    box-shadow: inset 0 0 0 transparent !important;
+} */
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #6610f2 !important;
+    border: 1px solid #6610f2 !important;
+}
+
+label.error {
+    font-weight: 400;
+    color: red;
+}
+
+.single_img_preview {
+    border: 3px solid #adb5bd;
+    margin: 0 auto;
+    padding: 3px;
+    width: 100px;
+    width: 70px;
+    height: 70px;
+    object-fit: contain;
+    background: lightgray;
+}
